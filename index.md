@@ -6,4 +6,4 @@ Collection of my digitized notes for better readability.
 - [wget](Advanced%20Linux%20Commands/wget.md)
 
 ## Numerical Analysis
-- [Solving Non-linear System.md](Solving%20Non-linear%20System.md)
+- [Solving Non-linear System](Solving%20Non-linear%20System.md)
