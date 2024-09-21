@@ -27,7 +27,7 @@ _Adding an extra parameter to the `wget` command to find the error_
 5. `wget https://en.wikipedia.org/wiki/Dog --page-requisites --span-hosts --convert-links`
 : `--convert-links` parameter converts the links in downloaded files to make them suitable for local viewing
 
-#### **TIP:**
+#### **TIPS**
 
 - Can create a shell script (_.sh_) when using wget for easier modification of the command line prompt. 
 - Can break a single command line by using a back slach key at the end of each parameter followed by a new line.
