@@ -172,17 +172,11 @@ $x_m = \frac{x_l(f(x_u))-x_u(f(x_l))}{f(x_u)-f(x_l)}$
 Determine the root of $3x^4 + 7x^3 - 15x^2 + 5x = 17$ between $[0,2]$. Use False Position Method for 7 iterations.
 The equation  becomes $f(x) = 3x^4 + 7x^3 - 15x^2 + 5x -17$. _17 is transposed so it became -17_
 
-$$
-\begin{array}{|c|c|c|c|c|c|c|c|}
-\hline
-\text{$Count$} & \text{$x\_l$} & \text{$x\_m$} & \text{$x\_u$} & \text{$f(x\_l)$} & \text{$f(x\_m)$} & \text{$f(x\_u)$} & \text{$New$} \\
-\hline
-1. & 0 & 0.62963 & 2 & -17 & -17.57963 & 37 & [0.62963,2] \\
-\hline
-2. & 0.62963 & 1.07101 & 2 & -17.57963 & -16.30402 &  &  \\
-\hline
-\end{array}
-$$
+| $Count$    | $x_l$      | $x_m$      | $x_u$      | $f(x_l)$   | $f(x_m)$   | $f(x_u)$   | $New$            |
+|------------|------------|------------|------------|------------|------------|------------|------------------|
+| 1.         | 0          | 0.62963    | 2          | -17        | -17.57963  | 37         | [0.62963,2]      |
+| 2.         | 0.62963    | 1.07101    | 2          | -17.57963  | -16.30402  |            |                  |
+
 
 
 **First Iteration**
