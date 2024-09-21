@@ -28,3 +28,5 @@ $3x^4 + 7x^3 - 15x^2 + 5x - 17$ (_transposed 17_)
     &= 3 + 7 - 15 + 5 - 17 \\
     &= -17
 \end{align*}
+
+- [Back to Home](../index.md)

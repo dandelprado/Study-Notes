@@ -54,3 +54,4 @@ wget https://en.wikipedia.org/wiki/Dog \
 2. `limit-rate=1024k`
 : download not at the full connection but only at 1024K
 
+- [Back to Home](../index.md)
