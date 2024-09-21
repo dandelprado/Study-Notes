@@ -7,9 +7,10 @@
 
 Example Problem
 Determine the root of $3x^4 + 7x^3 - 15x^2 + 5x = 17$ between $[0,2]$. Use Bisection Method for 7 iterations.
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| $0$ | $1$ | $2$ |    
 
+| # | $x_l$ | $x_m$ | $x_u$ | $f(x_l)$ | $f(x_m)$ | $f(x_u)$ | New|
+|---|---|---|---|---|---|---|---|
+| 1         | 0     | 1     | 2     |          |          |          |             |
 
 **1st iteration**
 
