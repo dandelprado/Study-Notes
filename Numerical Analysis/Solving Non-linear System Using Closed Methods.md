@@ -1,5 +1,5 @@
 ---
-title: "Closed Methods in Finding the Root of a Non-linear Systems"
+title: "Closed Methods in Finding the Root of a Non-linear System"
 author: "Dan del Prado"
 date: "BSCS3"
 geometry: margin=1in
@@ -114,7 +114,7 @@ Determine the root of $f(x) = x^3 - 2x - 5$ between [2,3]. Use Bisection Method 
 | 4.         | 2          | 2.0625     | 2.125      | -1         | 8.96289    | 0.34570    | [2,2.0625]       |
 | 5.         | 2          | 2.03125    | 2.0625     | -1         | $-0.68161$ | 8.96289    | [2.03125,2.0625] |
 
-To get the root after the 5th iteration, use the formula of getting $x_m$. So, $x_m =\frac{2.03125+2.0625}{2} = 2.046875$
+To get the root after the 5th iteration, use the formula of getting $x_m$. So, $x_m =\frac{2.03125+2.0625}{2} = 2.04688$
 
 **First Iteration**
 
@@ -343,7 +343,7 @@ $x_m = \frac{x_l(f(x_u))-x_u(f(x_l))}{f(x_u)-f(x_l)} = \frac{2.09274(16)-3(-0.02
 
 $f(x_m) = 2.09388^3 - 2(2.09388) - 5 = -0.00749$
 
-### Comparison of Root Values Between the 2 Methods: 
+# Comparison of Root Values Between the 2 Methods: 
 
 1. Problem 1
 - Bisection Method: 1.58594
