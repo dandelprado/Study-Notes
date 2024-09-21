@@ -4,7 +4,7 @@
 : command line application that lets you download files, folders, or entired websites.
 : allows to retrieve files from the internet using _HTTP_, _HTTPS_, and _FTP_ protocols.
 
-## Usage Example:
+## Usage Example
 
 1. `wget https://en.wikipedia.org/wiki/Dog`
 : only loads the specific webpage and not any other files that might be needed by the webpage.
