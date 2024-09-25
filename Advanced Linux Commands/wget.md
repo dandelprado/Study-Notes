@@ -37,21 +37,41 @@ _Adding an extra parameter to the `wget` command to find the error_
 wget https://en.wikipedia.org/wiki/Dog \
 --page-requisites \
 --span-hosts \
---convert-links
+--convert-links \
+--recursive \
+--level=inf \
+--no-parent \
+--wait=2 \
+--limit-rate=1024k
 ```
 
-- `--recursive`
-: tells the program to download files recursively which means it will follow links found in the downloaded files and download those as well
+### Shortened Version of the above command (activity)
 
-- `--level-inf`
-: it will follow links and download files to any depth
-- `--no-parent`
-: prevents the program from ascending to the parent directory when downloading files recursively
+```
+wget https://wiki.hackzine.org -p -k -r \
+--l inf -np
+```
+
+`man wget`
+: read the manual for wget
+
+- `--page-requisite` or `-p`
+: download all the files necessary to properly display a given HTML page
+
+- `--recursive` or `-r`
+: turn on recursive retrieving; default maximum depth is 5
+
+- `--level=inf` or `l inf`
+: specify maximum depth
+
+- `--no-parent` or `'-np`
+: do not ascend to parent directory when retrieving recursively
 
 ##### wget etiquette
-1. `--wait=2`
-: wait 2 seconds per page it downloads
-2. `limit-rate=1024k`
-: download not at the full connection but only at 1024K
+1. `--wait=2` or `-w seconds`
+: wait the specified # of seconds between the retrievals
 
-- [Back to Home](../index.md)
+2. `--limit-rate=1024k`
+: limit the download speed to amount bytes per second
+
+
