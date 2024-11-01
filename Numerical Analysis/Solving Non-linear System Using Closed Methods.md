@@ -7,7 +7,7 @@ author: "Dan del Prado"
    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
+[Back to Numerical Analysis](../Numerical%20Analysis/index.html)
 
 # Bisection Method
 1. Determine $$x_m = \frac{x_l+x_u}{2}$$
@@ -362,4 +362,4 @@ $f(x_m) = 2.09388^3 - 2(2.09388) - 5 = -0.00749$
 
 <button onclick="window.print()">Download This Page as PDF</button>
 
-[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
+[Back to Numerical Analysis](../Numerical%20Analysis/index.html)
