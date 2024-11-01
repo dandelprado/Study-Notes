@@ -20,7 +20,7 @@ $$
 
 Where:
 
-The set $x={X_1 X_2, ..., X_n}$ is considered the solution of the linear system if they are **correct in all equations.**
+The set $$x={X_1 X_2, ..., X_n}$$ is considered the solution of the linear system if they are **correct in all equations.**
 
 # Methods of Solution
 
@@ -44,11 +44,15 @@ The set $x={X_1 X_2, ..., X_n}$ is considered the solution of the linear system 
 
 Determine the solution of the linear system shown below using Gauss Elimination.
 
-$2X_1 - 4X_2 + X_3 = -11$
+$$
+\begin{aligned}
+2X_1 - 4X_2 + X_3 = -11 \\
 
-$X_1 + 3X_2 + 2X_3 -4$
+X_1 + 3X_2 + 2X_3 -4 \\
 
-$3X_1 + 5X_2 + 2X_3 = -2$
+3X_1 + 5X_2 + 2X_3 = -2
+\end{aligned}
+$$
 
 
 ##### Elimination Phase
@@ -90,7 +94,7 @@ R_3 \to R_3 - \left(\frac{3}{2}\right) R_1
 \right|
 $$
 
-*The goal here is to create an **upper triangular matrix**, where all elements below the main diagonal are zeros. To achieve this, we need to perform row operations on $R_2$ and $R_3$ in order to eliminate the first element of both rows (below the diagonal). The number 2 is derived from the 1st element of $R_1$.*
+*The goal here is to create an **upper triangular matrix**, where all elements below the main diagonal are zeros. To achieve this, we need to perform row operations on $$R_2$$ and $$R_3$$ in order to eliminate the first element of both rows (below the diagonal). The number 2 is derived from the 1st element of $$R_1$$.*
 
 $$
 \left|
@@ -151,7 +155,6 @@ $$
 
 *Back substitution means solving from the last row towards the first row*
 
-\begin{multicols}{2}
 
 $R_3$
 
