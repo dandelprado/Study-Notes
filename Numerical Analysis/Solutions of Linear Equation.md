@@ -162,7 +162,6 @@ Divide both sides by -2.8 to isolate $X_3$:
 
 $$-2.8X_3 = 11.2 \quad \Rightarrow \quad X_3 = -4$$
 
-
 $$R_2$$
 
 Substitute $$X_3$$, transpose the result, and divide both sides by 5 to isolate $$X_2$$:
@@ -176,6 +175,7 @@ $$R_1$$
 Substitute $$X_2$$ and $$X_3$$ and solve for $$X_1$$:
 
 $$2X_1 - 4(1.5) + (-4) = -11 \quad \Rightarrow \quad 2X_1 - 10 = -11$$
+
 $$2X_1 = -1 \quad \Rightarrow \quad X_1 = -0.5$$
 
 
@@ -200,11 +200,15 @@ $$X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4$$
 
 Determine the solution of the linear system shown below using Gauss Jordan
 
-$2X_1 - 4X_2 + X_3 = -11$
+$$
+\begin{aligned}
+2X_1 - 4X_2 + X_3 = -11
 
-$X_1 + 3X_2 + 2X_3 -4$
+X_1 + 3X_2 + 2X_3 -4
 
-$3X_1 + 5X_2 + 2X_3 = -2$
+3X_1 + 5X_2 + 2X_3 = -2
+\end{aligned}
+$$
 
   $$ 
   \begin{bmatrix}
@@ -392,8 +396,6 @@ $$
 Final Values: 
 
 $$
-\
 X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4
-\
 $$
 
