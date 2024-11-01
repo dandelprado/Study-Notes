@@ -4,7 +4,7 @@ author: "Dan del Prado"
 ---
 
 # Bisection Method
-1. Determine $$x_m = \frac{x_l+x_u}{2}$$
+1. Determine $x_m = \frac{x_l+x_u}{2}$
 2. Find $$f(x_l), f(x_m), f(x_u)$$
 3. Choose new interval (_find the interval with 2 different signs (+,-)_)
 
