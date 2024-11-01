@@ -156,26 +156,22 @@ $$
 *Back substitution means solving from the last row towards the first row*
 
 
-$R_3$
+$$R_3$$
 
 Divide both sides by -2.8 to isolate $X_3$:
-\[
--2.8X_3 = 11.2 \quad \Rightarrow \quad X_3 = -4
-\]
 
-$R_2$
+$$-2.8X_3 = 11.2 \quad \Rightarrow \quad X_3 = -4$$
 
-Substitute $X_3$, transpose the result, and divide both sides by 5 to isolate $X_2$:
-\[
-5X_2 + 1.5(-4) = 1.5 \quad \Rightarrow \quad 5X_2 - 6 = 1.5 \quad \Rightarrow \quad 5X_2 = 7.5
-\]
-\[
-X_2 = 1.5
-\]
 
-\columnbreak
+$$R_2$$
 
-$R_1$
+Substitute $$X_3$$, transpose the result, and divide both sides by 5 to isolate $$X_2$$:
+
+$$5X_2 + 1.5(-4) = 1.5 \quad \Rightarrow \quad 5X_2 - 6 = 1.5 \quad \Rightarrow \quad 5X_2 = 7.5$$
+
+$$X_2 = 1.5$$
+
+$$R_1$$
 
 Substitute $X_2$ and $X_3$ and solve for $X_1$:
 \[
