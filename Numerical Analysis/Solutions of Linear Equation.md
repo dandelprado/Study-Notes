@@ -173,23 +173,15 @@ $$X_2 = 1.5$$
 
 $$R_1$$
 
-Substitute $X_2$ and $X_3$ and solve for $X_1$:
-\[
-2X_1 - 4(1.5) + (-4) = -11 \quad \Rightarrow \quad 2X_1 - 10 = -11
-\]
-\[
-2X_1 = -1 \quad \Rightarrow \quad X_1 = -0.5
-\]
+Substitute $$X_2$$ and $$X_3$$ and solve for $$X_1$$:
 
-\end{multicols}
+$$2X_1 - 4(1.5) + (-4) = -11 \quad \Rightarrow \quad 2X_1 - 10 = -11$$
+$$2X_1 = -1 \quad \Rightarrow \quad X_1 = -0.5$$
+
 
 Final Values: 
 
-$$
-\
-X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4
-\
-$$
+$$X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4$$
 
 
 ### Gauss Jordan
