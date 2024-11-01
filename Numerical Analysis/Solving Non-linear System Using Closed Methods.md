@@ -3,19 +3,17 @@ title: "Closed Methods in Finding the Root of a Non-linear System"
 author: "Dan del Prado"
 ---
 
-\newpage
-
 # Bisection Method
-1. Determine $x_m = \frac{x_l+x_u}{2}$
-2. Find $f(x_l), f(x_m), f(x_u)$
+1. Determine $$x_m = \frac{x_l+x_u}{2}$$
+2. Find $$f(x_l), f(x_m), f(x_u)$$
 3. Choose new interval (_find the interval with 2 different signs (+,-)_)
 
 ## Problem 1 - Bisection Method
 
-Determine the root of $3x^4 + 7x^3 - 15x^2 + 5x = 17$ between $[0,2]$. Use Bisection Method for 7 iterations.
-The equation  becomes $f(x) = 3x^4 + 7x^3 - 15x^2 + 5x -17$. _17 is transposed so it became -17_
+Determine the root of $$3x^4 + 7x^3 - 15x^2 + 5x = 17$$ between $$[0,2]$$. Use Bisection Method for 7 iterations.
+The equation  becomes $$f(x) = 3x^4 + 7x^3 - 15x^2 + 5x -17$$. _17 is transposed so it became -17_
 
-| $Count$    | $x_l$      | $x_m$      | $x_u$      | $f(x_l)$   | $f(x_m)$   | $f(x_u)$   | $New$            |
+| Count      | $$x_l$$    | $$x_m$$    | $$x_u$$    | $$f(x_l)$$ | $$f(x_m)$$ | $$f(x_u)$$ | New              |
 |------------|------------|------------|------------|------------|------------|------------|------------------|
 | 1.         | 0          | 1          | 2          | -17        | $-17$      | 37         | [1,2]            |
 | 2.         | 1          | 1.5        | 2          | -17        | $-4.43750$ | 37         | [1.5,2]          |
