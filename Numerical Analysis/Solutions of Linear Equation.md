@@ -7,10 +7,8 @@ A linear system is a set of $$n$$ equations that can solve $$n$$ number of unkno
 
 $$
 \begin{aligned}
-A_{11}X_1 + A_{12}X_2 + ... + A_{1n}X_n = B_1
-
-A_{21}X_1 + A_{22}X_2 + ... + A_{2n}X_n = B_2
-
+A_{11}X_1 + A_{12}X_2 + ... + A_{1n}X_n = B_1 \\
+A_{21}X_1 + A_{22}X_2 + ... + A_{2n}X_n = B_2 \\
 A_{n1}X_1 + A_{n2}X_2 + ... + A_{nn}X_n = B_n
 
 \end{aligned}
