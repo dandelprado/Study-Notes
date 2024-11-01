@@ -7,6 +7,8 @@ author: "Dan del Prado"
    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
+
 A linear system is a set of $$n$$ equations that can solve $$n$$ number of unknowns. This can be written as:
 
 $$
@@ -400,3 +402,5 @@ X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4
 $$
 
 <button onclick="window.print()">Download This Page as PDF</button>
+
+[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
