@@ -1,9 +1,6 @@
 ---
 title: "Closed Methods in Finding the Root of a Non-linear System"
 author: "Dan del Prado"
-date: "BSCS3"
-geometry: margin=1in
-toc: true
 ---
 
 \newpage

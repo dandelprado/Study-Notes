@@ -1,11 +1,7 @@
-Dan S. del Prado
-
-BSCS3
-
-Midterm Activity1 - Polynomial Interpolation
-
-October 10, 2024
-
+---
+title: "Midterm Activity 1 - Polynomial Interpolation"
+author: "Dan S. del Prado"
+date: "2024-10-10"
 ---
 
 ### Lagrange Interpolation for \( f(7) \)

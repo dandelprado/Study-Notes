@@ -1,10 +1,8 @@
-Dan S. del Prado
-
-BSCS3
-
-Midterm Activity 1
-
-October 10, 2024
+---
+title: "Midterm Activity 1 - Gauss Elimination"
+author: "Dan S. del Prado"
+date: "2024-10-10"
+---
 
 # Gauss Elimination
 

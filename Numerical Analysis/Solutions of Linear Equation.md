@@ -1,11 +1,6 @@
 ---
 title: "Solutions of Linear Equation"
 author: "Dan del Prado"
-date: "BSCS3"
-geometry: margin=1in
-toc: true
-header-includes:
-    - \usepackage{multicol}
 ---
 
 \newpage
