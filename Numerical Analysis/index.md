@@ -1,0 +1,1 @@
+- [Solutions of Linear Equation](./Solutions%20of%20Linear%20Equation.html)
