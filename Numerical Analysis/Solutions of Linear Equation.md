@@ -158,7 +158,7 @@ $$
 
 $$R_3$$
 
-Divide both sides by -2.8 to isolate $X_3$:
+Divide both sides by -2.8 to isolate $$X_3$$:
 
 $$-2.8X_3 = 11.2 \quad \Rightarrow \quad X_3 = -4$$
 
