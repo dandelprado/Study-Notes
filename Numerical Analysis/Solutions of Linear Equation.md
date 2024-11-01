@@ -3,6 +3,10 @@ title: "Solutions of Linear Equation"
 author: "Dan del Prado"
 ---
 
+<script type="text/javascript" async
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 A linear system is a set of $$n$$ equations that can solve $$n$$ number of unknowns. This can be written as:
 
 $$
