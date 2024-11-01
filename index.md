@@ -1,6 +1,4 @@
-# Study Notes
-
-## Courses/Topics
+Topics
 
 - [Numerical Analysis](./Numerical%20Analysis/index.html)
 
