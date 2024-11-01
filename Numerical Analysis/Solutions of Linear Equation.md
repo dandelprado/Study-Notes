@@ -11,7 +11,7 @@ $A_{21}X_1 + A_{22}X_2 + ... + A_{2n}X_n = B_2$
 
 $A_{n1}X_1 + A_{n2}X_2 + ... + A_{nn}X_n = B_n$
 
-The set $$x={X_1 X_2, ..., X_n}$$ is considered the solution of the linear system if they are **correct in all equations.**
+The set $x={X_1 X_2, ..., X_n}$ is considered the solution of the linear system if they are **correct in all equations.**
 
 # Methods of Solution
 
