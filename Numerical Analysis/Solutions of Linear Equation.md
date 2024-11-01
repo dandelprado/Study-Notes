@@ -202,9 +202,9 @@ Determine the solution of the linear system shown below using Gauss Jordan
 
 $$
 \begin{aligned}
-2X_1 - 4X_2 + X_3 = -11
+2X_1 - 4X_2 + X_3 = -11 \\
 
-X_1 + 3X_2 + 2X_3 -4
+X_1 + 3X_2 + 2X_3 -4 \\
 
 3X_1 + 5X_2 + 2X_3 = -2
 \end{aligned}
