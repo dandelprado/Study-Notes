@@ -399,9 +399,4 @@ $$
 X_1 = -0.5, \quad X_2 = 1.5, \quad X_3 = -4
 $$
 
-
-<button id="downloadPDF">Download as PDF</button>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
-
-<script src="{{ site.baseurl }}/assets/download.js"></script>
+<button onclick="window.print()">Download This Page as PDF</button>
