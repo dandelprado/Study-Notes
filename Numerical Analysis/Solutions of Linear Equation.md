@@ -132,7 +132,7 @@ R_3 \to R_3 - \left(\frac{11}{5}\right) R_2
 \right|
 $$
 
-*Same process as above, except we only needed to change the one in $R_3$ now.*
+*Same process as above, except we only needed to change the one in $$R_3$$ now.*
 
 ##### Back-substitution Phase
 
