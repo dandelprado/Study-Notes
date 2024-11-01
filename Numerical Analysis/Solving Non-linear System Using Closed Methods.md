@@ -3,6 +3,12 @@ title: "Closed Methods in Finding the Root of a Non-linear System"
 author: "Dan del Prado"
 ---
 
+<script type="text/javascript" async
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
+
 # Bisection Method
 1. Determine $x_m = \frac{x_l+x_u}{2}$
 2. Find $$f(x_l), f(x_m), f(x_u)$$
@@ -347,3 +353,7 @@ $f(x_m) = 2.09388^3 - 2(2.09388) - 5 = -0.00749$
 2. Problem 2
 - Bisection Method: 2.04688
 - False Position Method: 2.09430 
+
+<button onclick="window.print()">Download This Page as PDF</button>
+
+[Back to Numerical Analysis](../Numerical%20Analysis/index.md)
